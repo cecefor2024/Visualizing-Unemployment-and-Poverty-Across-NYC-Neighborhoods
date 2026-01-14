@@ -1,5 +1,7 @@
 # Visualizing Unemployment and Poverty Across NYC Neighborhoods
 
+LINK TO VIEW PROJECT ON PUBLIC.TABLEAU.COM: https://public.tableau.com/app/profile/chelsea.oliveira/viz/VisualizingUnemploymentandPovertyAcrossNYCNeighborhoods/Dashboard1
+
 Tools: Tableau, Excel  
 Skills: Data cleaning, visualization, correlation analysis, socioeconomic insights  
 Dataset: NYC Open Data – Socioeconomic and Labor Statistics  
